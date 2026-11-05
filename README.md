@@ -124,8 +124,8 @@ Application screenshots are available in the `screenshots` folder.
 
 ## Live Demo
 
-- Frontend: To be added
-- Backend: To be added
+- Frontend: https://showcase-hub-dusky.vercel.app
+- Backend: https://showcasehub-backend.onrender.com
 
 ## Author
 
